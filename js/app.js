@@ -1,1 +1,1 @@
-var app = angular.module('parseQ', [])
+var app = angular.module('parseQ', []);
